@@ -1,5 +1,5 @@
 {
   "appId": "com.chizhinime.digitalstudyclock",
   "appName": "Digital Study Clock",
-  "webDir": "www"
+  "webDir": "dist"
 }
